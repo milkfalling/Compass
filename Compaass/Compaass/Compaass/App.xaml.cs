@@ -10,7 +10,7 @@ namespace Compaass
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Greetings();
         }
 
         protected override void OnStart()
